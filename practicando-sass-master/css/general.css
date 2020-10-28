@@ -1,0 +1,154 @@
+header {
+  background-color: #303432;
+  margin: -8px;
+  padding: 4px;
+  height: 200px;
+}
+header .menu .menu__img {
+  height: 50px;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+header .logo .logo__img {
+  margin-left: 150px;
+  margin-top: -80px;
+  height: 40px;
+}
+header button {
+  margin-top: -15px;
+}
+header .search__group input {
+  margin-left: 500px;
+  margin-top: -80px;
+  border-radius: 5px;
+  background-color: #151716;
+  width: 300px;
+}
+header .search__group input .btn {
+  background-color: #151716;
+  padding: 15px;
+  height: 20px;
+  width: 10px;
+}
+header .info_upload img {
+  height: 50px;
+  margin-left: 900px;
+  margin-top: -80px;
+}
+header .info_apps img {
+  height: 50px;
+  margin-left: 1000px;
+  margin-top: -90px;
+}
+header .info_notifications img {
+  height: 50px;
+  margin-left: 1100px;
+  margin-top: -100px;
+}
+header .info_user img {
+  height: 50px;
+  border-radius: 25px 25px 25px 25px;
+  margin-left: 1200px;
+  margin-top: -110px;
+}
+
+section {
+  padding: 25px;
+}
+
+.contenidos__info {
+  margin-left: 70px;
+}
+.contenidos__info .tags {
+  font-size: 15px;
+  font-family: Reboto, sans-serif;
+  font-weight: bold;
+  color: #073C71;
+}
+
+.contenidos__info h2 {
+  font-family: Reboto, sans-serif;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.contenidos__info p {
+  font-family: Reboto, sans-serif;
+  color: #595F5C;
+}
+
+.artista .artista__img img {
+  border-radius: 25px 25px 25px 25px;
+  margin-left: 70px;
+}
+
+body {
+  background-color: #151716;
+}
+
+.estructura .contenidos .contenidos__video iframe {
+  margin-left: 70px;
+  height: 350px;
+  width: 700px;
+}
+
+.artista__datos {
+  margin-left: 140px;
+  margin-top: -70px;
+  font-family: Reboto, sans-serif;
+  color: #ffffff;
+}
+.artista__datos p {
+  font-size: 15px;
+  font-family: Reboto, sans-serif;
+  font-weight: bold;
+}
+.artista__datos p span {
+  font-size: 10px;
+  font-family: Reboto, sans-serif;
+  color: #595F5C;
+  text-align: justify;
+}
+
+iframe {
+  box-shadow: 2px 2px 2px 2px #151716;
+  padding: -15px;
+}
+
+aside {
+  margin-left: 950px;
+  margin-top: -545px;
+  background-color: #1E2120;
+  margin-right: 100px;
+  border-radius: 5px 5px 5px 5px;
+  padding: 15px;
+  height: 500px;
+}
+
+.sugerencias h2 {
+  color: #ffffff;
+  font-weight: bold;
+  font-family: Reboto, sans-serif;
+}
+
+.sugerencias__item img {
+  height: 50px;
+  margin: center;
+}
+
+.sugerencias__item h3 {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: Reboto, sans-serif;
+  margin-left: 100px;
+  margin-top: -40px;
+}
+
+.sugerencias__item p {
+  font-size: 15px;
+  font-family: Reboto, sans-serif;
+  margin-left: 100px;
+  margin-top: -10px;
+  color: #595F5C;
+}
+/*# sourceMappingURL=general.css.map */
